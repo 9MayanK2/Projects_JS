@@ -1,0 +1,22 @@
+body{
+    background-color: #212121;
+    color: #fff;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 4rem;
+}
+.clock{
+    font-size: 3rem;
+}
+.clock-box{
+    margin-top: 2rem;
+    padding: 2rem 5rem;
+    border: 1px solid white;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+}

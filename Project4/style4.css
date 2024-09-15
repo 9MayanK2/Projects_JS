@@ -1,0 +1,40 @@
+body{
+    background-color: #212121;
+    color: white;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    background-color: black;
+    width: 100%;
+   text-align: center;
+   padding: 1rem;
+}
+
+.just{
+    font-size: 2.5rem;
+}
+
+#guess_no{
+    height: 2rem;
+    width: 15rem;
+    /* padding: .8rem; */
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    font-size: larger;
+}
+
+button{
+    padding: .8rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
