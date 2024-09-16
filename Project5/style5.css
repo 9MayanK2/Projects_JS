@@ -1,0 +1,11 @@
+body{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+button{
+    font-size: 2rem;
+    padding: 1rem;
+    border-radius: 5px;
+    /* background-color: rgb(red, green, blue); */
+}
